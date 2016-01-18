@@ -1,7 +1,7 @@
-title: appydroid
+title: Mulberry News
 email: janlukas.else@gmail.com
 description: >
-  The first Open Source online news magazine about Android apps
+  The first news App from Mulberry Inc
 baseurl: ""
 url: "https://appydroid.tk" # for production
 # url: "http://127.0.0.1:4000" # for local development
